@@ -8,3 +8,5 @@ All-in-one command-line machine learning engine, optimized for ease of use and p
 - [ ] Model saving/loading
 - [ ] Inference functions
 - [ ] Training functions
+- [ ] Execution engine
+- [ ] Command-line front end
