@@ -15,4 +15,4 @@ So you've decided to join us? Cool, sit right down and memorize this here list..
 ## A disclaimer
 ***The project maintainers reserve the right to take enforcement action for any other reason.***<br><br>
 This is because ones' interpretation of these rules are somewhat subjective. What they mean to us are certainly somewhat different than what they mean to you.
-If you're unsure if it's allowed, please ask a maintainer.
+If you're unsure if it's allowed, please DM a maintainer.
