@@ -1,6 +1,9 @@
 # blaze
 All-in-one command-line machine learning engine, optimized for ease of use and performance
 
+## Dependencies
+`libcinder`
+
 ## Work-in-progress!
 ### Release 0.1 feature checklist
 - [ ] Intelligent loader framework
