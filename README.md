@@ -13,7 +13,7 @@ We don't need to get it perfectly on the first try. It just needs to run and be 
 - [ ] Inference functions
 - [ ] Training functions
 - [ ] Execution engine
-- [ ] Command-line front end
+- [ ] Command-line front end (glue code??)
 - [ ] Build scripts
 ### Release 0.2 feature checklist
 - [ ] `ncurses`-based TUI?
